@@ -1,3 +1,4 @@
 name = "vless2sub-worker"
 main = "_worker.js"
-compatibility_date = "2025-06-21"
+compatibility_date = "2025-09-07"
+keep_vars = true
